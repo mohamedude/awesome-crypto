@@ -1,6 +1,6 @@
 # Awesome Lite Doge
 
-* https://github.com/ldoge
+* https://github.com/ldoge (not the official project)
 * https://github.com/vashshawn/LDOGE
 
 # Awesome Roger
