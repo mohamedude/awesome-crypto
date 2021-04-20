@@ -1,7 +1,8 @@
 # Awesome Lite Doge
 
-* https://github.com/ldoge (not the official project but maybe in the way to)
 * https://github.com/vashshawn/LDOGE
+* https://github.com/ldoge (not the official project but maybe in the way to)
+* https://github.com/skyrawrcode/litedoge-js
 
 # Awesome Roger
 
