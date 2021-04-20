@@ -3,6 +3,14 @@
 * https://github.com/vashshawn/LDOGE (OFFICIAL CORE WALLET)
 * https://github.com/ldoge (not the official project but maybe in the way to)
 * https://github.com/skyrawrcode/litedoge-js
+
+## SITES
+
+* https://litedogeofficial.org (official project)
+* https://ldoge-wow.com (the project that is the way to be)
+
+## FAUCETS AND GAMES
+
 * https://litedogecards.com/downloads
 * https://hempyshub.com/coinlist/faucet-games/
 
