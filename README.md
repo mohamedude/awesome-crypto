@@ -4,6 +4,10 @@
 * https://github.com/ldoge (not the official project but maybe in the way to)
 * https://github.com/skyrawrcode/litedoge-js
 
+
+* https://litedogecards.com/downloads
+* https://hempyshub.com/coinlist/faucet-games/
+
 # Awesome Roger
 
 * https://theholyroger.com
