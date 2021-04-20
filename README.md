@@ -1,4 +1,9 @@
-# awesome-roger
+# Awesome Lite Doge
+
+* https://github.com/ldoge
+* https://github.com/vashshawn/LDOGE
+
+# Awesome Roger
 
 To play it's $play artist title or $play youtube or soundcloud link
 
